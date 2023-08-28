@@ -1,7 +1,7 @@
 export const Footer = () => {
   return (
     <div>
-      <p>Copyright ©</p>
+      <p>Copyright © 2023 Rawipa Samhuay 650610801</p>
     </div>
   );
 };
